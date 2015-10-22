@@ -20,7 +20,7 @@ Make sure to have:
 
 Clone this repository to ~/.middleman
 
-1. `git clone git://github.com/RalphAtHamburg/middleman-foundation5-basic.git ~/.middleman/foundation5-basic`
+1. `git clone git://github.com/electronspin/middleman-foundation5-basic.git ~/.middleman/foundation5-basic`
  
 Then create a new project using the `foundation5-basic` template. 
 
